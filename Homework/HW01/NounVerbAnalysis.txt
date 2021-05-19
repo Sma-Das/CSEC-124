@@ -1,0 +1,29 @@
+Nouns
+- Product
+- - name
+- - product code
+- - MSRP
+
+- Truck
+- - capacity
+
+- Factory
+- - Product
+
+- Complex
+- - Factory
+
+Verbs
+- Product
+
+- Truck
+- - loaded
+- - unloaded
+
+- Factory
+- - manufacture
+
+- Complex
+- - load
+
+
